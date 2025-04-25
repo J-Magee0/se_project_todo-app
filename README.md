@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A simple app to create a todo list with a due date. As well as check mark and delete completed todos.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+This web aplication is designed to create a simple todo list. Get started with the add todo button to enter a new task. You will be able to create new todo item with an optional due date field. The input for the todos will require 2 min. characters. After adding new tasks you will be able to mark items with a check mark to keep track of todos as well as a delete button to remove todos.
 
-## Technology
+## Technology & Image
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Languages used: HTML, CSS, JavaScript
+
+![Todo preview](./images/TodoS7.png)
 
 ## Deployment
 
-This project is deployed on GitHub Pages:
-
-- ADD LINK HERE
+This project is deployed on GitHub Pages:(https://github.com/J-Magee0/se_project_todo-app.git)
