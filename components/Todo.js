@@ -44,7 +44,6 @@ class Todo {
 
     const todoNameEl = this._todoElement.querySelector(".todo__name");
     this._todoDate = this._todoElement.querySelector(".todo__date");
-    this._dueDate = new Date(this._data.date);
 
     todoNameEl.textContent = this._data.name;
 
