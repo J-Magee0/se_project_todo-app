@@ -12,6 +12,7 @@ export default class Popup {
 
   close() {
     this._popupElement.classList.remove("popup_visible");
+    document.removeEventListener("keydown", this._handleEscapeClose);
   }
 
   _handleEscapeClose(evt) {
