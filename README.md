@@ -10,7 +10,7 @@ This web aplication is designed to create a simple todo list. Get started with t
 
 Languages used: HTML, CSS, JavaScript
 
-![Todo preview](./images/TodoS7.png)
+![Todo preview](./images/TodoApp.png)
 
 ## Deployment
 
